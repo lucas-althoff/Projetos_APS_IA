@@ -1,5 +1,6 @@
-# Projetos_APS_IA
+# Projetos de APS com IA Generativa
 Repositório de Estruturação dos Projetos da Disciplina Análise e Projeto de Sistemas
 
 Entrar em:
-ai.google.dev
+https://ai.google.dev
+
